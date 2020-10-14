@@ -1,0 +1,28 @@
+Creating config...
+17.0
+Total: 58.26
+Used: 9.72
+Free: 47.34
+/boot/config.txt
+09
+ 3
+2020
+09
+ 3
+2020
+Sep  3 2020
+/home/pi/CommanderPi/src
+File is not exist! Creating file...
+File created
+Frame
+TSeparator
+Frame
+TSeparator
+Label
+Frame
+Button
+Version 0.5
+
+app_version = "Version 0.6\n"
+<class 'tkinter.Tk'>
+<class 'tkinter.Tk'>
